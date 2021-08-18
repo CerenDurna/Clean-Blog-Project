@@ -1,0 +1,26 @@
+{
+  "name": "clean-blog",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000C\u0000l\u0000e\u0000a\u0000n\u0000-\u0000B\u0000l\u0000o\u0000g\u0000-\u0000P\u0000r\u0000o\u0000j\u0000e\u0000c\u0000t\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  },
+  "devDependencies": {
+    "prettier": "2.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cerennnnn/Clean-Blog-Project.git"
+  },
+  "author": "Ceren Durna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cerennnnn/Clean-Blog-Project/issues"
+  },
+  "homepage": "https://github.com/Cerennnnn/Clean-Blog-Project#readme"
+}
