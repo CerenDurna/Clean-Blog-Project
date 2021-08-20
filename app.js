@@ -68,7 +68,7 @@ app.get('/add_post',(req,res)=>{
 //})
 
 
-const port = 2000;
+const port = 9000;
 app.listen(port, () => {
   console.log(`Sunucu ${port} portunda başlatıldı..`);
 });
